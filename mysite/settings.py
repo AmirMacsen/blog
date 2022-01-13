@@ -132,8 +132,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # email service
 EMAIL_HOST = 'smtp.qq.com'
-EMAIL_HOST_USER = "3254168608@qq.com"
-EMAIL_HOST_PASSWORD = "pcwlqxeymawrchje"
+EMAIL_HOST_USER = ""
+EMAIL_HOST_PASSWORD = ""
 EMAIL_USE_TLS = True
 
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
